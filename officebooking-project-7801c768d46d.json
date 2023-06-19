@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "officebooking-project",
+  "private_key_id": "7801c768d46d9f9cb0d7e30c5df3b315604a70d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHNAXEQhy2BB1h\nbKAyJHwSK5lcFJKrG5IqcozyEbxtJahyM9gvv65ErBNERdpUDdkjYu2nJrn6XO7K\npABT+eUw3kB3Yy5yYk4FtNPxxqapTbQ1ORYLYvHwhVjkJAqy2J5uSWg7WnsN6Pby\nGZvlVZy4RDpGDITcCE0Zsqb+rVk7ES1HCauTXIizrzJc2Qzr6I2SQlszbQfsCoe3\nhs8qggip6A0jbbSedywZRfxtrnEQnC8Bz0D4yTtlwnmfNow/GDJedOTZJrGyHuq5\n94jFsgLdOqU+21eOrCiLxO057LwaHS5MhrR2FgV2BF3fRpgLwIRr8WkTORT/rrAr\n8uFuK0tDAgMBAAECggEAGRg0ocSyWTurd9p3U9nEx4U2jKMK1wNiJnbHyrbxRc64\nqapeUaWUDpKe2rryBiS4dfzAc44tX5zVeDGw2ONiPAXDmUalU0OPEKj3Cj48QJfJ\nW+sVG9obIHGsARGJR36CduJIfzGmztnKQjV3rixa0dvGe4yYMB/blqEq6GpuE0Kd\nvGw3qb/pq9j+WVzLdSYZprsuXnHDeLSxcefiWkwpy3tTW9mgT71M+wwQhLXARaLT\nIl4x8yYuXLTs/7pEW8wKGz6bwN7jo/KLe7ZsvzlRQ/3R2zWeSyCwcVBdorXxYoYb\n2Bh9rLG0/na2Z6O6Gs74dhmBNkndP+jhw3FMlNssAQKBgQDsguO9SwATX2y2KMBv\nMtf/XSe/E6PUq5Vpzw6TMdtKWThM5m4B8htC7KJV7L0OuMoNtYugw2fpgxhDPolI\nX4Fi+HNFNGJrfqZyVgDlxMy/U6As6hfho+kpF3SrntUqGdRs4K7m2H93q9m9al16\nyqLnAcHleytDhJH8ukDJ9mKCuQKBgQDXniJUy5lgIJSGjI6LTlmF3x/ouZSNOMMw\njmHG0YDpPazPZUdCQkM00o9yYvsm84H7bnSbs6PA7XpIlwZw1Sh80OYequLk328P\nwyj6pG2uyKO3DxMKuypUOrzwpGhPwQtJajheUrFKzsPHNJiwJwksJCvQf+WFxFkt\nG8VwlFGv2wKBgQDOpQowwQ/+3ThR7Ec+oTDiONVaeOGDFqwEd9onN79/NXcgkZD6\neDvjfHfWFXOWIlTAJ6govbLT7yvKzSALsQ6Ol7+3bq6zd0Qc0BIWr52paXqg46Qc\nDSfSNGFG9g8PquPUgXev0OeGewtTGVU1zUkKB5oPVE+XvYQESgQDsheeWQKBgBNI\nZB+bObM8FqxVw6W3sw/i3XKtrhhXHDWqdhoWwGWbi2ncz9ugG2yM7CE5suZP3q8C\nuND35swpMMdvIjdTCNToxbu2YqY/SSpqtK59qAV6khGb+oL6LBXuTtliiqWfSQge\nxL3CvXJIPYACNymBxDM7ZOO3nGozHhqHokeoLAoDAoGAZYteHnyQJ9PWM0ZK3f0N\nGmjgfJDtpL55xb+Qpax8GkSCbJUDg7paFtgopkLp3Gyiqc8wVbcWUpkcpSDxSOhI\nww13cWn2vTG7DmSHBqdq7MlKbkaQOfYn9RHafsqu3cI8UUgUWttWhTsnOu/0SJ+9\nxsPpiy/6MYdWfWO3Z2LLNPE=\n-----END PRIVATE KEY-----\n",
+  "client_email": "proof-of-concept@officebooking-project.iam.gserviceaccount.com",
+  "client_id": "108146070018697138235",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/proof-of-concept%40officebooking-project.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
